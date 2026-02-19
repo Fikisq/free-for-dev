@@ -1,6 +1,6 @@
 # free-for.dev
 
-# еще одно первое изменение для branch1
+# еще одно 2 изменение для branch1
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
